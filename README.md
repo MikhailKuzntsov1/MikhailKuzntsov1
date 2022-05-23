@@ -5,7 +5,7 @@
 - I'm also interested in `competitive programming` and applying `algorithms & DS` to real world projects
 - I'm open for the internship / job opportunities as a `backend developer` or `systems programmer`
 ---
-### Contacts:
+### Contacts
 - Languages: English (fluent), Russian (native)
 - TG: @mikhailnkuz
 - Email: mikhail.n.kuznetsov@gmail.com
