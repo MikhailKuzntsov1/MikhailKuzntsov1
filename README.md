@@ -2,7 +2,7 @@
 - Student of School21 (Sber)
 - I have experience & made projects with `C`, `Node.js` 
 - Currently I'm learning `C++` & `OOP` approach to building software
-- I'm also interested in `competitive programming` and applying `algorithms & DS` to real world projects
+- I'm also interested in `competitive programming` and enjoy learning & applying `algorithms & data structures` to real world projects
 - I'm open for the internship / job opportunities as a `backend developer` or `systems programmer`
 ---
 ### Contacts
